@@ -1,2 +1,0 @@
-cd..
-java index.Aim
